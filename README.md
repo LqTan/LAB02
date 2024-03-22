@@ -1,5 +1,5 @@
 Tên project: FILEJAVACODE
-Mô tả project: Tạo 2 file java tính tổng và in helloworld
+#Mô tả project: Tạo 2 file java tính tổng và in helloworld
 Cách chạy 2 file:
   1.Mở visual code.
   2.Chọn open file và chọn 1 trong 2 file java muốn chạy.
